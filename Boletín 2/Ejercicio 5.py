@@ -75,7 +75,7 @@ while True:
 
 ######################################### ACTUALIZA LOS DATOS EN EL ARCHIVO ######################################################
 
-#Terminamos de rabajar con la Agenda y queremos guardar copia en archivo
+#Terminamos de trabajar con la Agenda y queremos guardar copia en archivo
 #Si el diccionario está vacío que no haga nada
 if dAgenda != {}:
 
