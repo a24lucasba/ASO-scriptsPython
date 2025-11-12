@@ -7026,6 +7026,7 @@ Apr 19 17:12:57 ip-10-77-20-248 sshd[3018]: pam_unix(sshd:auth): check pass; use
 Apr 19 17:12:58 ip-10-77-20-248 sshd[3016]: Failed password for root from 201.178.81.113 port 52378 ssh2
 Apr 19 17:12:59 ip-10-77-20-248 sshd[3018]: Failed password for invalid user ubnt from 201.178.81.113 port 52408 ssh2
 Apr 19 17:12:59 ip-10-77-20-248 sshd[3018]: pam_unix(sshd:auth): check pass; user unknown
+Apr 19 17:13:00 ip-10-77-20-248 sshd[3016]: Failed password for invalid user  from 201.178.81.113 port 52378 ssh2
 Apr 19 17:13:00 ip-10-77-20-248 sshd[3016]: Failed password for root from 201.178.81.113 port 52378 ssh2
 Apr 19 17:13:00 ip-10-77-20-248 sshd[3016]: error: maximum authentication attempts exceeded for root from 201.178.81.113 port 52378 ssh2 [preauth]
 Apr 19 17:13:00 ip-10-77-20-248 sshd[3016]: Disconnecting: Too many authentication failures [preauth]
